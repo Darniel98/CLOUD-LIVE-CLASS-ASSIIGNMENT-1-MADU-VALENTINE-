@@ -61,7 +61,7 @@ __i.__  Create a user and force the user to change his/her password upon login
 
 __solution__
 
-![screenshot](i..PNG)
+![screenshot](i.PNG )
 
 
 
