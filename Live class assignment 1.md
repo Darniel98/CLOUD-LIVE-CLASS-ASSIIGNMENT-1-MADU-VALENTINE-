@@ -82,7 +82,7 @@ __solution__
 __l.__  Disable password based authentication for ssh
 __solution__
 
-![screenshot](L.PNG)
+![screenshot](l..PNG)
 
 
 __m.__   Disable root login for ssh
